@@ -1,0 +1,190 @@
+{
+  "name": "Aishani Anand Srivastava",
+
+  "professional_summary": "Third-year Computational Cognitive Science student at UC Davis interested in AI, machine learning, human-centered technology, and software development. Aishani has worked on projects and experiences involving C++, generative AI research, AI-powered backend systems, and accessibility. She is interested in learning, building meaningful technology, and connecting with others in the technology industry.",
+
+  "education": [
+    {
+      "school": "University of California, Davis",
+      "degree": "Bachelor of Science in Computational Cognitive Science",
+      "dates": "September 2026 - 2028",
+      "expected_graduation": "June 2028",
+      "status": "Current student",
+      "relevant_coursework": [
+        "CS 100 - Software Construction",
+        "CS 010C - Introduction to Data Structures and Algorithms",
+        "CS 111 - Discrete Structures",
+        "CS 061 - Machine Organization and Assembly Language Programming"
+      ]
+    },
+    {
+      "school": "University of California, Riverside",
+      "degree": "Bachelor of Science in Computer Science",
+      "dates": "September 2024 - June 2026",
+      "status": "Former student",
+      "activities": [
+        "UCR Afsana",
+        "UCR Aag Finance Chair",
+        "Gamespawn UCR Treasurer"
+      ]
+    },
+    {
+      "school": "Washington High School",
+      "degree": "High School Diploma",
+      "dates": "August 2020 - June 2024",
+      "status": "Alumni",
+      "activities": [
+        "WHS Taal - Competitive Bollywood-Fusion Dance Team",
+        "WHS Robotics"
+      ]
+    }
+  ],
+
+  "skills": {
+    "programming_languages": [
+      "C++",
+      "Python",
+      "Java",
+      "Assembly Language"
+    ],
+    "technical_interests_and_exposure": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Large Language Models",
+      "Human-Centered Technology",
+      "Software Development",
+      "AI-Powered Backend Systems"
+    ],
+    "other_skills": [
+      "Team Leadership",
+      "Communication",
+      "Financial Management",
+      "Project Planning"
+    ]
+  },
+
+  "certifications": [
+    {
+      "name": "Introduction to Prompt Engineering for Generative AI",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "name": "Crash Course on Python",
+      "issuer": "Google via Coursera"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "BambooBox",
+      "role": "Gen AI / Software Engineering Intern",
+      "dates": "June 2026 - August 2026",
+      "location": "Bengaluru, Karnataka, India",
+      "work_type": "Remote",
+      "details": [
+        "Developed components of a Python and Flask backend for a B2B news-signal pipeline that retrieves and processes recent company news.",
+        "Worked with CrewAI agents, web-search and scraping tools, and LLM-based workflows to collect and process correctly attributed company news.",
+        "Implemented handling for varying CrewAI response formats to improve reliability across the news-processing pipeline.",
+        "Built deduplication logic using normalized headlines and article URLs to filter repeated stories and reduce noise.",
+        "Collaborated with the engineering team through GitHub, contributing code and iterating on the pipeline through version control.",
+        "Gained hands-on experience building AI-powered backend systems and working with real-world unstructured web data."
+      ]
+    },
+    {
+      "company": "Caspex",
+      "role": "AI Research Intern",
+      "dates": "July 2023 - October 2023",
+      "work_type": "Hybrid",
+      "details": [
+        "Researched real-world applications of artificial intelligence across multiple industries.",
+        "Analyzed generative AI use cases, capabilities, limitations, and responsible AI practices.",
+        "Built foundational knowledge of NLP, tokens, and large language models through guided research.",
+        "Conducted literature review and technical analysis to evaluate AI trends and emerging use cases.",
+        "Authored and presented a research paper on AI integration to company mentors."
+      ]
+    },
+    {
+      "company": "ALOGIC",
+      "role": "Product & Business Operations Intern",
+      "dates": "September 2022 - April 2023",
+      "location": "Australia",
+      "work_type": "Remote",
+      "details": [
+        "Gained hands-on exposure to how consumer technology products are developed and brought to market.",
+        "Learned about ALOGIC's product lines, including monitors, docking stations, chargers, and computer accessories.",
+        "Observed the product development process and how different business functions work together.",
+        "Built a stronger understanding of product strategy, customer needs, and the consumer electronics industry."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Text-Based Mystery Game - CS 100",
+      "dates": "July 2025 - August 2025",
+      "language": "C++",
+      "associated_school": "University of California, Riverside",
+      "details": [
+        "Developed an interactive text-based mystery game in C++ as part of CS 100.",
+        "Implemented branching storylines, user input handling, and multiple possible outcomes.",
+        "Collaborated with a team using GitHub for version control, code reviews, and issue tracking.",
+        "Built reusable and organized code through modular function design."
+      ]
+    }
+  ],
+
+  "leadership_and_involvement": [
+    {
+      "organization": "UCR Aag - Competitive Bollywood Dance Team",
+      "role": "Finance Lead",
+      "dates": "September 2024 - June 2026",
+      "details": [
+        "Managed budgeting and financial planning for team travel, competitions, and costumes.",
+        "Led fundraising initiatives, secured sponsorships, and organized events to support team operations.",
+        "Established financial tracking and reporting processes to improve transparency and accountability.",
+        "Participated in performances and competitions while managing financial responsibilities."
+      ]
+    },
+    {
+      "organization": "AISC UCR - Artificial Intelligence Student Collective",
+      "role": "Member",
+      "dates": "September 2025 - June 2026",
+      "details": [
+        "Attended workshops and networking events focused on computing and artificial intelligence.",
+        "Gained exposure to machine learning fundamentals, generative AI tools, and real-world AI applications through workshops and peer-led discussions."
+      ]
+    }
+  ],
+
+  "volunteering": [
+    {
+      "organization": "Friends of Children with Special Needs (FCSN)",
+      "role": "Volunteer",
+      "dates": "May 2022 - June 2024",
+      "cause": "Children"
+    }
+  ],
+
+  "interests": [
+    "Coding Projects",
+    "Robotics",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Human-Centered Technology",
+    "Software Development",
+    "Product Management",
+    "Tech Strategy",
+    "Open-Source Contributions"
+  ],
+
+  "answering_rules": [
+    "Answer questions using only information contained in Aishani's approved professional knowledge base.",
+    "Do not invent jobs, projects, skills, accomplishments, education, dates, or qualifications.",
+    "If the knowledge base does not contain enough information to answer a question, say that the information is not currently available.",
+    "When discussing current education, identify Aishani as a Computational Cognitive Science student at UC Davis.",
+    "Distinguish between skills Aishani has used directly and technologies or concepts she has only been exposed to.",
+    "Keep answers professional, conversational, and appropriate for recruiters, students, and professional connections."
+  ]
+}

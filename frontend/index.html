@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Ask Aishani | AI Portfolio Assistant</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="app">
+
+        <header class="hero">
+
+            <div class="avatar">
+                AA
+            </div>
+
+            <p class="eyebrow">AI PORTFOLIO ASSISTANT</p>
+
+            <h1>Ask Aishani</h1>
+
+            <p class="intro">
+                Hi! I'm Aishani's AI portfolio assistant.
+                Ask me about her experience, projects,
+                education, skills, and leadership.
+            </p>
+
+        </header>
+
+
+        <section class="suggestions">
+
+            <button onclick="askSuggestion('Where does Aishani study?')">
+                🎓 Education
+            </button>
+
+            <button onclick="askSuggestion('What experience does Aishani have?')">
+                💼 Experience
+            </button>
+
+            <button onclick="askSuggestion('What projects has Aishani built?')">
+                💻 Projects
+            </button>
+
+            <button onclick="askSuggestion('What are Aishani skills?')">
+                ✨ Skills
+            </button>
+
+        </section>
+
+
+        <section id="chat" class="chat">
+
+            <div class="message assistant-message">
+                <div class="message-label">Aishani AI</div>
+
+                Hi! 👋 Ask me anything about Aishani's
+                professional experience.
+            </div>
+
+        </section>
+
+
+        <section class="input-area">
+
+            <input
+                id="questionInput"
+                type="text"
+                placeholder="Ask something about Aishani..."
+                autocomplete="off"
+            >
+
+            <button id="sendButton" onclick="sendMessage()">
+                ↑
+            </button>
+
+        </section>
+
+        <p class="disclaimer">
+            AI portfolio assistant • Answers based on Aishani's professional information
+        </p>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
