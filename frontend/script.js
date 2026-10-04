@@ -53,7 +53,7 @@ async function sendMessage() {
 
     try {
 
-        const response = await fetch("http://127.0.0.1:5001/ask", {
+        const response = await fetch("https://aishanis-ai-avatar.onrender.com/ask", {
             method: "POST",
 
             headers: {
