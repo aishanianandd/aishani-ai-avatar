@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from knowledge import search_knowledge
+from backend.knowledge import search_knowledge
 from openai import OpenAI
 from dotenv import load_dotenv
 
